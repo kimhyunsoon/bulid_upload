@@ -1,2 +1,2 @@
 # bulid_upload
-빌드 
+빌드파일 
